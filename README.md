@@ -14,10 +14,10 @@ A nifty syntax highlighter for [Sublime Text](http://www.sublimetext.com/) to ma
 
 # How to install
 
-1. Copy the `aml.tmLanguage` file and put it in `/User/your_user_id/Library/Application Support/Sublime Text 3/Packages/User/`
+1. [Download this repo](https://github.com/lexithium/sublime-aml-highlighter/archive/master.zip) and copy the `aml.tmLanguage` and `aml.sublime-settings` files into your Sublime Text `User` folder. You can navigate to this folder via the menu bar: `Sublime Text > Preferences > Browse Packages...`. 
     + Alternatively, if you have Package Control installed, you can open the Command Palette (`Cmd + Shift + P`) and type `Browse Packages`
     + Copy these files into the `User` folder
-2. Open the test.aml file and have your mind be blown, baby.
+2. Open the `test.aml` file and have your mind be blown, baby.
 
 # Credits
 
